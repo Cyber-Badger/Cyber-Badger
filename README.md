@@ -1,43 +1,25 @@
-# Vivek Sagar | Cyber-Badger
+# Cyber-Badger
 
 ### Digging Vulnerabilities Relentlessly, Helping Secure Foundations Bottom Up!
 
-**Cybersecurity | Governance, Risk & Compliance (GRC) | Risk Management | Security Assessments**
+**Cybersecurity | GRC | DFIR | SIEM | OSINT lab architect | Risk Management | Risk Audits | VAPT & NPT | Security Assessments | IR**
 
-I am a cybersecurity professional building practical capabilities across security assessments, governance, risk management, compliance and security controls.
+We at Cyber-Badger, a cybersecurity wing of Tech Badgers, professionally build practical capabilities across GRC, Security Assessments, Data Forensics & Incident Response, Threat Hunting, Vulnerabilities Assessment basis OWASP Top 10 list, Open-Source Intelligence lab setups, VAPT, NPT and Establishing Security Controls.
 
-My approach combines technical investigation with a risk-oriented mindset: understanding vulnerabilities, assessing their potential impact, identifying control gaps and developing practical recommendations to strengthen security.
+Our Badgers at Cyber-Badger wing of Tech Badgers, approach technical investigation with a risk-oriented mindset: understanding vulnerabilities, assessing their potential impact, identifying control gaps and developing practical recommendations to strengthen security with proper reporting and SOP handouts to provide self-reliant easy to follow steps play book for our clients self serve demeanor.
 
-I believe effective cybersecurity starts with understanding risks at the foundation and building stronger security from the bottom up.
+We believe effective cybersecurity starts with understanding risks at the foundation and building stronger security always begins from the bottom up.
 
 ---
 
-## About Me
+## About Us
 
-- 🎯 **Career Focus:** Governance, Risk & Compliance (GRC), Information Security and Risk Management.
-- 🔐 **Security Interests:** Vulnerability Assessment, Web Application Security, Network Threat Hunting, Digital Forensics and Incident Response.
+- 🎯 **Area Focus:** Governance, Risk & Compliance (GRC), Information Security and Risk Management.
+- 🔐 **Projects beyond Focus:** Vulnerability Assessment, Web Application Security, Network Threat Hunting, Digital Forensics and Incident Response.
 - 📋 **GRC Interests:** Risk Assessment, Security Controls, Compliance Readiness, Audit Evidence and Risk Treatment.
 - 🧪 **Practical Development:** Hands-on security assessments, investigation exercises and technical security labs.
-- 🌎 **Location:** Ontario, Canada.
+- 🌎 **Location:** New Jersey, USA and Ontario, Canada.
 
-## Certifications & Professional Development
-
-| Credential | Status |
-|---|---|
-| CompTIA Security+ | Certified |
-| CompTIA A+ | Certified |
-| ISACA CISA | Examination Passed – Certification Pending |
-| ITIL v3 Foundation | Completed |
-
-## Education
-
-**Cybersecurity Diploma — CDI College, Canada**
-
-Currently enrolled | Expected completion: May 2027
-
-**Diploma in Software Application and System Administration — NIIT, India**
-
-1998–2001
 
 ## Security Tools & Technologies
 
@@ -63,9 +45,9 @@ Currently enrolled | Expected completion: May 2027
 - Digital Forensics Fundamentals
 - Incident Response & Security Documentation
 
-## Practical Security Lab Experience
+## Practical Security Lab Architecture
 
-Installed, configured and worked hands-on with Burp Suite, Vega, Metasploit Framework, Wazuh and Splunk in a Kali Linux virtualized environment using VMware as part of an internship-based practical training program.
+Architected, Approvals Attained, Installed, Configured and Trained Cyber-Badgers to work hands-on with Burp Suite, Vega, Metasploit Framework, Wazuh and Splunk in a Kali Linux virtualized environment using VMware as part of a project.
 
 Applied these tools through practical security exercises and real-world project scenarios.
 
