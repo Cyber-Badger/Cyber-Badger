@@ -24,6 +24,8 @@ We believe effective cybersecurity starts with understanding risks at the founda
 - 🧪 **Practical Development:** Hands-on security assessments, investigation exercises and technical security labs.
 - 🌎 **Location:** New Jersey, USA and Ontario, Canada.
 - 👥 **TechBadger's-CyberBadgers:** Ganesh K., Vishal M., Anurag N., Vivek S.
+- 🏅 **Professional Certifications:** ITIL v3 Foundation, CompTIA A+, CompTIA Security+ and CISA
+
 
 ## Security Tools & Technologies
 
