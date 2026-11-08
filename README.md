@@ -23,7 +23,7 @@ We believe effective cybersecurity starts with understanding risks at the founda
 - 📋 **GRC Interests:** Risk Assessment, Security Controls, Compliance Readiness, Audit Evidence and Risk Treatment.
 - 🧪 **Practical Development:** Hands-on security assessments, investigation exercises and technical security labs.
 - 🌎 **Location:** New Jersey, USA and Ontario, Canada.
-
+- 👥 **TechBadger's-CyberBadgers:** Ganesh K., Vishal M., Anurag N., Vivek S.
 
 ## Security Tools & Technologies
 
