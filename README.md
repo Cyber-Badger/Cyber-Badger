@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Vivek Sagar | Cyber-Badger">
+</p>
+
 # Cyber-Badger
 
 ### Digging Vulnerabilities Relentlessly, Helping Secure Foundations Bottom Up!
