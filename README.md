@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Vivek Sagar | Cyber-Badger">
+  <img src="Cyber-Badger Cybersecurity banner.png" width="100%" alt="Vivek Sagar | Cyber-Badger">
 </p>
 
 # Cyber-Badger
