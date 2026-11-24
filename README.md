@@ -24,8 +24,19 @@ We believe effective cybersecurity starts with understanding risks at the founda
 - 🧪 **Practical Development:** Hands-on security assessments, investigation exercises and technical security labs.
 - 🌎 **Location:** New Jersey, USA and Ontario, Canada.
 - 👥 **TechBadger's-CyberBadgers:** Ganesh K., Vishal M., Anurag N., Vivek S.
-- 🏅 **Professional Certifications:** ITIL v3 Foundation, CompTIA A+, CompTIA Security+ and CISA
+- 🏅 **Professional Certifications:** ITIL v3 Foundation, CompTIA A+, CompTIA Security+ (Sep 2026) and CISA (exam passed, certificate pending)
 
+
+## Experience Timeline (Nov 2025 – Present)
+
+| Period | Milestone |
+|---|---|
+| **Nov 2025** | Malware removal and recovery on a Synology DS225+ NAS for a small legal practice, restoring operations with minimal disruption. |
+| **Dec 2025** | Sunset of a legacy Oracle ATG monolith for a large retailer, ensuring 100% data migration to commercetools. |
+| **Jan 2026 – Present** | Cybersecurity Specialist diploma, CDI College (in progress, 840 of 1,420 program hours completed). |
+| **May 2026 – Present** | Digital Forensics & Incident Response (DFIR) cases and projects, taken on alongside studies. |
+| **Sep 2026** | CompTIA Security+ certified (28 September 2026). |
+| **Late 2026** | ISACA CISA examination passed; certificate pending issuance by ISACA. |
 
 ## Security Tools & Technologies
 
@@ -122,7 +133,27 @@ Developed a practical Standard Operating Procedure (SOP) following a cyberbullyi
 
 **Key Areas:** Incident Response, Malware Containment, Endpoint Isolation, Security Procedures and Operational Risk Reduction.
 
-*Client-sensitive engagements and supporting evidence are excluded from public repositories unless publication is authorized.*
+### 7. Malware Removal & Recovery — Synology NAS (Nov 2025)
+
+Removed malware from a Synology DS225+ NAS at a small legal practice and restored the business to normal operation with minimal disruption.
+
+**Key Areas:** Malware Removal, Incident Response, System Recovery and Business Continuity.
+
+### 8. Legacy Platform Sunset & Data Migration — Oracle ATG to commercetools (Dec 2025)
+
+Supported the sunset of a legacy Oracle ATG monolith for a large retailer, ensuring 100% data migration to commercetools.
+
+**Key Areas:** Platform Decommissioning, Data Migration, Enterprise Change Management.
+
+### 9. Digital Forensics & Incident Response Casework (May 2026 – Present)
+
+**Status:** Ongoing
+
+DFIR cases and projects taken on alongside studies, with a focus on disciplined investigation, evidence handling and clear documentation.
+
+**Key Areas:** Digital Forensics, Incident Response, Evidence Handling and Reporting.
+
+*Client names and identifying details are withheld under confidentiality agreements. Client-sensitive engagements and supporting evidence are excluded from public repositories unless publication is authorized.*
 
 ---
 
